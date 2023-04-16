@@ -1,0 +1,20 @@
+{
+  "Date": "2023-04-11",
+  "Data": [
+    {
+      "Type": "Hint",
+      "Message": "欢迎使用 SuperVersion! 更多内容请访问官网！",
+      "Urls": {
+        "官网": "https://github.com/SuperStudio/SuperVersion",
+        "更新源": "https://github.com/SuperStudio/SuperVersion-Upgrade"
+      }
+    },
+    {
+      "Type": "Hint",
+      "Message": "作者：Chao，致力于打造开源好用的国产软件",
+      "Urls": {
+        "主页": "https://github.com/SuperStudio"
+      }
+    }
+  ]
+}
